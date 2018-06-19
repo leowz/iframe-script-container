@@ -1,0 +1,33 @@
+{
+  "name": "iframe-script-container",
+  "version": "1.0.1",
+  "description": "A react script tag container",
+  "main": "build/index.js",
+  "author": "WENG Zhang",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "peerDependencies": {
+    "react": "^16.4.1",
+    "react-bootstrap": "^0.32.1"
+  },
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.4.1",
+    "webpack": "^4.12.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^4.19.1",
+    "webpack-cli": "^3.0.8"
+  }
+}
