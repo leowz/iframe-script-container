@@ -77,7 +77,7 @@ class Demo extends Component {
 }
 ```
 
-**result:*
+*result:*
 ![demo](img/linkedinPlugin.gif)
 
 ## Author
