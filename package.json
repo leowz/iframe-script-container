@@ -1,6 +1,6 @@
 {
   "name": "iframe-script-container",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A react script tag container",
   "main": "build/index.js",
   "author": "WENG Zhang",
